@@ -1,5 +1,5 @@
 <div align="center">
-<h2> ##Yo, <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px">. </h2>
+<h2> Yo <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px"> </h2>
   <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/github.gif">
 </div>
 <!--
