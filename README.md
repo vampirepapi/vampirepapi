@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Yo,welcome to vampirepapi's den!!! <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px"> </h2>
   <span title="Don't Bother Him">
-  <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/vampirepapilogo.svg">
+  <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/github.svg">
   </span>
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vampirepapi/)
