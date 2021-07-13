@@ -1,8 +1,12 @@
 <div align="center">
-<h2> Yo,welcome to vampirepapi's den!!! <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px"> </h2>
+<h2> Yo welcome to vampirepapi's den! <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" width="30px"> </h2>
   <span title="Don't Bother Him">
   <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/github.gif">
   </span>
+  <p align="center">
+  <br>
+  <text>Do. Or do not. There is no try. — Yoda</text>
+  </p>
 
 <!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vampirepapi/)
@@ -32,6 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img alt="centered image" height="85" src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Indian%20Flag.png"/>
+  </div>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vampirepapi.vampirepapi" alt="visitor badge"/>
 </p>
