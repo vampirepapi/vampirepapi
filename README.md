@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <p><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=blood" /></p>
   <img alt="centered image" height="85" src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Indian%20Flag.png"/>
   </div>
 <p  align="center">
