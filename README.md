@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 <div align="center">
   
   <p><img align="center" width=600 src="https://activity-graph.herokuapp.com/graph?username=vampirepapi&theme=dracula" /></p>
-  <p><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=blood" /></p>
+  <details>
+  <summary>📊 <b><i>GitHub Stats & Streak </i></b></summary>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=vampirepapi&show_icons=true&theme=dracula" />
+  <p><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=dracula" /></p>
+</details> <!--
+  <p><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=vampirepapi&theme=blood" /></p> -->
   <img alt="centered image" height="85" src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Indian%20Flag.png"/>
   </div>
 <p  align="center">
