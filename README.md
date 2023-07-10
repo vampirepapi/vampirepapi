@@ -7,6 +7,7 @@
   <br>
   <text>Do. Or do not. There is no try. — Yoda</text>
   </p>
+  
 [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=green)](https://github.com/vampirepapi/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/vampirepapi/)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/vampire_papi/)
