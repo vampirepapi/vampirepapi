@@ -2,7 +2,7 @@
     <h2>Welcome to the GitHub Profile of vampirepapi </h2>
     <img src="https://github.com/vampirepapi/vampirepapi/blob/main/assets/Hi.gif" alt="Greetings" width="30px">
     <p align="center">
-        <em>"Do. Or do not. There is no try." - Yoda</em>
+        <em>""Conquer yourself rather than the world." - Descartes</em>
     </p>
     <div>
         <a href="https://github.com/vampirepapi/" target="_blank" rel="noopener">
