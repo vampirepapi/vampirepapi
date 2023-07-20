@@ -29,6 +29,32 @@
     </div>
 </div>
 
+<!-- TODO Section -->
+<div align="center">
+    <h3>🚀 TODO</h3>
+    <div style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
+        <ul style="list-style-type: none; padding-left: 0;">
+            <!-- Google SDE TODO -->
+            <li><input type="checkbox"> 🎯 Master Data Structures and Algorithms.</li>
+            <li><input type="checkbox"> 💻 Become proficient in a preferred programming language (e.g., Python, Java, C++).</li>
+            <li><input type="checkbox"> 📚 Study software development methodologies (e.g., Agile, Scrum).</li>
+            <li><input type="checkbox"> 🖥️ Gain knowledge of operating systems and networks.</li>
+            <li><input type="checkbox"> 🌐 Familiarize with web development technologies (HTML, CSS, JavaScript, etc.).</li>
+            <li><input type="checkbox"> 🗄️ Learn about database management and SQL.</li>
+            <li><input type="checkbox"> 🧠 Develop strong problem-solving skills and practice coding interviews.</li>
+            <li><input type="checkbox"> 🌍 Contribute to open-source projects on GitHub.</li>
+            <li><input type="checkbox"> 🎓 Stay updated with the latest technology trends and attend relevant workshops.</li>
+        </ul>
+        <ul style="list-style-type: none; padding-left: 0;">
+            <!-- General TODO -->
+            <details>
+                <summary>General Todo</summary>
+                <li><input type="checkbox"> 📚 Reorganize Everything </li>
+            </details>
+        </ul>
+    </div>
+</div>
+
 <!-- GitHub Stats & Streak Section -->
 <div align="center">
     <details>
