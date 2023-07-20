@@ -48,7 +48,7 @@
         <ul style="list-style-type: none; padding-left: 0;">
             <!-- General TODO -->
             <details>
-                <summary>General Todo</summary>
+                <summary>🖥️ General Todo</summary>
                 <li><input type="checkbox"> 📚 Reorganize Everything </li>
             </details>
         </ul>
