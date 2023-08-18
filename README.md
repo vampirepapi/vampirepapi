@@ -36,7 +36,7 @@
         <ul style="list-style-type: none; padding-left: 0;">
             <!-- Google SDE TODO -->
             <li><input type="checkbox"> 🎯 Master Data Structures and Algorithms.</li>
-            <li><input type="checkbox"> 💻 Become proficient in a preferred programming language (e.g., Python, Java, C++).</li>
+            <li><input type="checkbox"> 💻 Become proficient in a preferred programming language (e.g., Python, Java, C++). <span style="color: #ff0000;"> Ongoing</span></li>
             <li><input type="checkbox"> 📚 Study software development methodologies (e.g., Agile, Scrum).</li>
             <li><input type="checkbox"> 🖥️ Gain knowledge of operating systems and networks.</li>
             <li><input type="checkbox"> 🌐 Familiarize with web development technologies (HTML, CSS, JavaScript, etc.).</li>
